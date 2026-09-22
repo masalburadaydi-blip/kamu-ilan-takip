@@ -1,0 +1,60 @@
+{
+  "sources": [
+    {
+      "name": "İlan.gov.tr - Personel Alımı",
+      "url": "https://www.ilan.gov.tr/ilan/tum-ilanlar/personel-alimi?ats=5"
+    },
+    {
+      "name": "Resmî Gazete - İlanlar",
+      "url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/08/20260801-4.htm"
+    },
+    {
+      "name": "İŞKUR",
+      "url": "https://www.iskur.gov.tr/"
+    },
+    {
+      "name": "Kariyer Kapısı",
+      "url": "https://kariyerkapisi.gov.tr/"
+    },
+    {
+      "name": "Kamu İlan",
+      "url": "https://kamuilan.sbb.gov.tr/"
+    }
+  ],
+  "education_terms": [
+    "önlisans",
+    "ön lisans",
+    "lisans",
+    "yüksekokul",
+    "fakülte"
+  ],
+  "no_kpss_terms": [
+    "kpss şartı aranmayacaktır",
+    "kpss puanı şartı aranmayacaktır",
+    "kpss puan şartı aranmayacaktır",
+    "kpss şartı bulunmamaktadır",
+    "kpss puanı aranmaz",
+    "kpss şartı yoktur",
+    "kpss puanı şartı yoktur",
+    "kpss'siz"
+  ],
+  "kpss_required_terms": [
+    "kpss puanından",
+    "kpss puanı ile",
+    "kpss puanı",
+    "kpss puan şartı",
+    "kpss puanına"
+  ],
+  "permanent_terms": [
+    "kadrolu",
+    "memur",
+    "sürekli işçi",
+    "4/a",
+    "657"
+  ],
+  "contract_terms": [
+    "sözleşmeli",
+    "4/b",
+    "4/b'li"
+  ]
+}
