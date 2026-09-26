@@ -13,8 +13,8 @@ Filtreler:
 ## Kurulum
 1. Bu klasördeki dosyaları GitHub'daki `kamu-ilan-takip` deponuza yükleyin.
 2. GitHub > Settings > Secrets and variables > Actions bölümünden:
-   - `TELEGRAM_BOT_TOKEN`
-   - `TELEGRAM_CHAT_ID`
+   - `8637020584:AAGRXDtCZFfFOxYPeHycksSD8ljqqpA0P4I`
+   - `7963291137`
    secret'larını ekleyin.
 3. Actions sekmesinden `Kamu ilanlarını kontrol et` workflow'unu çalıştırarak test edin.
 
