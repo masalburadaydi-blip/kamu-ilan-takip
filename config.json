@@ -1,3 +1,4 @@
+
 {
   "sources": [
     {
@@ -5,20 +6,16 @@
       "url": "https://www.ilan.gov.tr/ilan/tum-ilanlar/personel-alimi?ats=5"
     },
     {
-      "name": "Resmî Gazete - İlanlar",
-      "url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/08/20260801-4.htm"
-    },
-    {
-      "name": "İŞKUR",
-      "url": "https://www.iskur.gov.tr/"
-    },
-    {
-      "name": "Kariyer Kapısı",
-      "url": "https://kariyerkapisi.gov.tr/"
+      "name": "Kariyer Kapısı - Aktif İlanlar",
+      "url": "https://kariyerkapisi.gov.tr/isealim"
     },
     {
       "name": "Kamu İlan",
       "url": "https://kamuilan.sbb.gov.tr/"
+    },
+    {
+      "name": "İŞKUR",
+      "url": "https://www.iskur.gov.tr/"
     }
   ],
   "education_terms": [
@@ -26,7 +23,11 @@
     "ön lisans",
     "lisans",
     "yüksekokul",
-    "fakülte"
+    "fakülte",
+    "coğrafya",
+    "coğrafya bölümü",
+    "coğrafya lisans",
+    "coğrafya mezunu"
   ],
   "no_kpss_terms": [
     "kpss şartı aranmayacaktır",
@@ -36,7 +37,14 @@
     "kpss puanı aranmaz",
     "kpss şartı yoktur",
     "kpss puanı şartı yoktur",
-    "kpss'siz"
+    "kpss'siz",
+    "kpss siz",
+    "kpss şartı aranmaksızın",
+    "kpss puanı aranmaksızın",
+    "kpss puanı istenmeyecektir",
+    "kpss puanı talep edilmeyecektir",
+    "kpss puanı değerlendirmeye alınmayacaktır",
+    "kpss puan şartı olmadan"
   ],
   "kpss_required_terms": [
     "kpss puanından",
@@ -50,7 +58,8 @@
     "memur",
     "sürekli işçi",
     "4/a",
-    "657"
+    "657",
+    "daimi"
   ],
   "contract_terms": [
     "sözleşmeli",
